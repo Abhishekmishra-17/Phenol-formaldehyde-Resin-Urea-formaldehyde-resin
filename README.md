@@ -14,7 +14,7 @@ To prepare of Phenol-formaldehyde (P-F) Resin.
 
 <h5> About the Experiment : </h5>
 
-Type here: berif description of this experiment
+Phenol-formaldehyde resin is a thermosetting plastic of the class of condensation polymers, which is obtained by condensation polymerization of phenol and formaldehyde in presence of an acid catalyst. The commercial name is Bakelite named in honour of an American chemist Backeland.
 
 <h5> Target Audience : </h5>
 
@@ -22,11 +22,11 @@ B. Tech. 1st year Students
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+RAS-152/252 Chemistry Practical
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+AKTU
 
 <b>Name of Developer | <b> Dr. Syed Khalid Hasan
 :--|:--|
