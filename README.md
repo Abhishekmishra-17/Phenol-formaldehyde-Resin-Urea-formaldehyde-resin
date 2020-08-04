@@ -40,7 +40,7 @@ AKTU
 :--|:--|
 <b> Institute | <b> IIT KANPUR
 <b> Email id|     <b> sheetals@iitk.ac.in
-<b> Department | Computer Science 
+<b> Department | Sr. Project Associate (Computer Science) 
 
 #### Contributors List
 
