@@ -22,7 +22,7 @@ B. Tech. 1st year Students
 
 <h5> Course Alignment : </h5>
 
-RAS-152/252 Chemistry Practical
+KAS-152/252 Chemistry Practical
 
 <h5> Universities Mapped : </h5>
 
