@@ -36,11 +36,11 @@ AKTU
 
 #### Mentor Details
 
-<b>Mentored by | <b> Er Sheetal Singh
+<b>Mentored by | <b> Er. Sheetal Singh
 :--|:--|
-<b> Institute | <b> Institute name
+<b> Institute | <b> IIT KANPUR
 <b> Email id|     <b> sheetals@iitk.ac.in
-<b> Department | Name of the department
+<b> Department | Computer Science 
 
 #### Contributors List
 
