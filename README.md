@@ -3,14 +3,14 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>B. Tech. 1st year Chemistry Lab
+<b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab | <b> Chemistry Lab
+<b> Lab | <b>  Engineering Chemistry Lab
 <b> Experiment|     <b> Preparation of Phenol-formaldehyde Resin
 
 <h5> About the Lab (Objective) : </h5>
 
-To prepare of Phenol-formaldehyde (P-F) Resin.
+To prepare Phenol-formaldehyde (P-F) Resin.
 
 <h5> About the Experiment : </h5>
 
