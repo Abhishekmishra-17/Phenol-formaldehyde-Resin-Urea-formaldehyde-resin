@@ -4,13 +4,13 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
+<b> Phenol-Formaldehyde Resin Experiment  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Engineering 
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Engineering Chemistry Lab
+<b> Experiment|     <b> 1. Preparation of Phenol-formaldehyde resin.
 
 
 <h4> [1. Focus Area](#LO)
