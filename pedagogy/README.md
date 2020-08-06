@@ -4,7 +4,7 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
-<b> Phenol-Formaldehyde Resin Experiment  <a name="top"></a> <br>
+<b> Experiment: Phenol-Formaldehyde Resin Experiment  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering 
@@ -21,7 +21,9 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area : Exprimentation and Data Evaluation
+
+The students know the concept of thermosetting plastic ,condensation polymerization,molecular reaction. They do the experimentation based on the formula, trial and error and learn from it. They do the experiment in the presence an acid catalyst when phenol reacts with excess formaldehyde, a linear P-F(Phenol- formaldehyde) resin novoloc is formed
 
 #### 2. Learning Objectives and Cognitive Level
 
