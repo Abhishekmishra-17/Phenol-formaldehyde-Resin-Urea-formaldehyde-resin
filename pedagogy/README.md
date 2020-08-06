@@ -94,6 +94,6 @@ or type the correct answer below the question.
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Open the simulator<br> by clicking <br>"Start" button | Simulator is open <br> in its initial scale  | To show the starting condition of simulator.
-2.| On cli <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+2.|Click on "Procedure" <br> button and <br>"next" button  | Simulator will shows the <br> procedure one by one  | .
 3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
 4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
