@@ -45,12 +45,13 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u> Expository
+###### Assessment Method: Formative Assessment
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b>  
+With sample procedure provided by default user, students will able to perform the experiment.They proceed the stpes by hitting "Procedure" button to understand the concepts.  </u>
 <br>
- Brief description as per handout
+On click "select" button they will be able to add particular apparatus and by hitting "start" button they will be able to start the use of that apparatus and finally analyzed the result.
 
 <br/>
 <div align="right">
@@ -92,7 +93,7 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Open the simulator<br> by clicking <br>"Start" button | Simulator is open <br> in its initial scale  | To show the starting condition of simulator.
+2.| On cli <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
 3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
 4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
