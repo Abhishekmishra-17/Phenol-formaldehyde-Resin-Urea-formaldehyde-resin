@@ -21,9 +21,9 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Exprimentation and Data Evaluation
+#### 1. Focus Area : Exprimentation and Data Analysis
 
-The students know the concept of thermosetting plastic ,condensation polymerization,molecular reaction. They do the experimentation based on the formula, trial and error and learn from it. They do the experiment in the presence an acid catalyst when phenol reacts with excess formaldehyde, a linear P-F(Phenol- formaldehyde) resin novoloc is formed
+The students know the concept of thermosetting plastic ,condensation polymerization,molecular reaction. They do the experimentation based on the formula, trial and error and learn from it. They do the experiment in the presence an acid catalyst when phenol reacts with excess formaldehyde, a linear P-F(Phenol- formaldehyde) resin novolac is formed.
 
 #### 2. Learning Objectives and Cognitive Level
 
