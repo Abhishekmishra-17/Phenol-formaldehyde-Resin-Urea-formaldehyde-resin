@@ -1,1 +1,1 @@
-#### <!-- Write your institute name here -->
+#### Institute of Technology and Management, Gida, Gorakhpur
