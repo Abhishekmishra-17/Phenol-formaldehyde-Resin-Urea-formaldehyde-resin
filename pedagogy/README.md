@@ -30,10 +30,10 @@ The students know the concept of thermosetting plastic ,condensation polymerizat
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| User will be able to: <br>Describe the method for condensation polymerization | Remember | Describe
+2.| User will be able to: <br>Predict the effect of temperature on condensation process | Evaluate | Predict
+3.| User will be able to: <br>Examine the nature of Phenol-formaldehyde(P-F) resin on heating | Analyse | Examine
+4.| User will be able to: <br>Identify the adhessive behaviour of Phenol-formaldehyde(P-F) resin | Examine | Identify
 
 
 <br/>
