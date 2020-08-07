@@ -68,9 +68,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| Describe the method for condensation polymerization <br> Condensation polymers are any kind of polymers formed through a condensation reaction—where molecules join together—losing small molecules as byproducts such as water or methanol. | Student click on "Procedure" button <br> to see the concepts,steps and all informations. | What is condensation polymerization?
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
-
+1.| Describe the method for condensation polymerization <br> Condensation polymers are any kind of polymers formed through a condensation reaction—where molecules join together—losing small molecules as byproducts such as water or methanol. | Students click on "Procedure" button <br> to see the concepts, steps and all information. | What is condensation polymerization?
+2.| Examine the nature of Phenol-formaldehyde(P-F) resin on heating <br>  |  Students click on "add" button for adding required apparatus <br> and by clicking on "select" button they will able to select particular reagent.  | 1 Phenol formaldehyde is in form of:- <br> **A. Solid**<br> B. Liquid <br> C. Gas <br> <b> D. Plasma </b> <br> 
 
 You can add more question. All questions may not be as MCQ
 Please add the correct answer as well.
