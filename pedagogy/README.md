@@ -68,7 +68,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
+1.| Describe the method for condensation polymerization <br> Condensation polymers are any kind of polymers formed through a condensation reaction—where molecules join together—losing small molecules as byproducts such as water or methanol. | Student click on "Procedure" button <br> to see the concepts,steps and all informations. | What is condensation polymerization?
 2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
 
 
