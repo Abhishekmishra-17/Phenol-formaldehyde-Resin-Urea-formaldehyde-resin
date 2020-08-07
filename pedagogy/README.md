@@ -72,10 +72,11 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 2.| Examine the nature of Phenol-formaldehyde(P-F) resin on heating <br>  |  Students click on "add" button for adding required apparatus <br> and by clicking on "select" button they will able to select particular reagent.  | 1 Phenol formaldehyde is in form of:- <br> **A. Solid**<br> B. Liquid <br> C. Gas <br> <b> D. Plasma </b> <br> 
 
 Question 1: Which simple molecule is released during condensation of phenol and formaldehyde.<br> **A.H**<sub>**2**</sub>**O** <br> B. HCl <br>C. NH<sub>3</sub><br>D. None of these.
-
+<br>
+Question 2: Color of final product is:<br>A. Blue <br> B. Green <br>C. Yellow <br> **D.Pink** 
  <br>
 
- <u> You can add additional TASKS & Assessment Questions <u>
+ <u>  <u>
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -92,5 +93,5 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
 1.| Open the simulator<br> by clicking <br>"Start" button. | The simulator is open <br> in its initial scale  | To show the starting condition of simulator.
 2.| Click on "Procedure" <br> button and <br>"next" button.  | The simulator will show the <br> procedures one by one.  | To show the procedures.
-3.| Select the apparatus <br> from the apparatus box <br> on clicking "Select" button. | The simulator animate that <br> apparatus as per requirements'  | Students will able to understand how the experiment is going on.
-4.| A<br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+3.| Select the apparatus <br> from the apparatus box <br> on clicking "Select" button. | The simulator animate that <br> apparatus as per requirement.'  | Students will able to understand how the experiment is going on.
+4.| Select the reagent <br> from the reagent box <br> on clicking "Select" button | The simulator animate that reagent <br> as per requirement.'  |  Student will able to understand how the reagent will work on this experiment and they visualized all the reactions.
