@@ -26,7 +26,9 @@ Describe the pathway activites here : (Guide : Set the pathway activities in lin
 Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+1. If user missed to add a major chemical:<br> <a href="https://www.codecogs.com/eqnedit.php?latex=\bullet" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bullet" title="\bullet" /></a> Caution indication of **"Please use proper chemical"**<br>
+2. If user does not select correct amount:<br><a href="https://www.codecogs.com/eqnedit.php?latex=\bullet" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bullet" title="\bullet" /></a> Caution indication of **"Please choose correct amount of chemical"**<br>
+3.If user does 
 
 ##### 2.6 Conclusion:
 Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
