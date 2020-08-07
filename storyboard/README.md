@@ -2,8 +2,7 @@
 
 Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
 
-Experiment 1: Name of the Experiment
-
+Experiment 1: Preparation of Phenol-formaldehyde resin.
 ### 1. Story Outline:
 
 Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
