@@ -5,7 +5,7 @@ Delete this line before submission : The core principle of Round 2 is to make th
 Experiment 1: Preparation of Phenol-formaldehyde resin.
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+Phenol-formaldehyde resin is also known as **phenolic resin** which is a type of thermosetting plastic. It is synthesized by condensation polymerization and cross-linking of phenol and formaldehyde by heating in presence of acid catalyst **Novolac** and bakelite are well known P-F resin.<br>In presence of a base catalyst another P-F resin **Resol** is obtained. Atcommercial scale they are used in lamination, thermal resistance, adhessive and many more.<br> The chemical composition of phenoland formaldehyde and their combination into network are interlinked permanently that give them rigid and hard structure,it is due to crosslinked networking.
 
 ### 2. Story:
 
