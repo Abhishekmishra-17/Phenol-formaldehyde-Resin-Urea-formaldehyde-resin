@@ -12,7 +12,6 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b> Lab | <b> Engineering Chemistry Lab
 <b> Experiment|     <b> 1. Preparation of Phenol-formaldehyde resin.
 
-
 <h4> [1. Focus Area](#LO)
 <h4> [2. Learning Objectives ](#LO)
 <h4> [3. Instructional Strategy](#IS)
@@ -69,8 +68,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| Describe the method for condensation polymerization <br> Condensation polymers are any kind of polymers formed through a condensation reaction—where molecules join together—losing small molecules as byproducts such as water or methanol. | Students click on "Procedure" button <br> to see the concepts, steps and all information. | What is condensation polymerization?
-2.| Examine the nature of Phenol-formaldehyde(P-F) resin on heating <br>  |  Students click on "add" button for adding required apparatus <br> and by clicking on "select" button they will able to select particular reagent.  | 1 Phenol formaldehyde is in form of:- <br> **A. Solid**<br> B. Liquid <br> C. Gas <br> D. Plasma </b>
- <u>  <u>
+2.| Examine the nature of Phenol-formaldehyde(P-F) resin on heating <br>  |  Students click on "add" button for adding required apparatus <br> and by clicking on "select" button they will able to select particular reagent.  | 1 Phenol formaldehyde is in form of:- <br> <b>A. Solid<br></b> B. Liquid <br> C. Gas <br> D. Plasma 
+
+3.| Examine the nature of Phenol-formaldehyde(P-F) resin on heating <br>  |  Students click on "add" button for adding required apparatus <br> and by clicking on "select" button they will able to select particular reagent.  | 1 Phenol formaldehyde is in form of:- <br> <b>A. Solid<br></b> B. Liquid <br> C. Gas <br> D. Plasma 
+
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
