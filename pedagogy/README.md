@@ -4,13 +4,13 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
-<b> Experiment: Phenol-Formaldehyde Resin Experiment  <a name="top"></a> <br>
+<b> Experiment:</b> Phenol-Formaldehyde Resin Experiment  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Engineering 
+<b>Discipline | </b>Engineering 
 :--|:--|
-<b> Lab | <b> Engineering Chemistry Lab
-<b> Experiment|     <b> 1. Preparation of Phenol-formaldehyde resin.
+<b> Lab | </b> Engineering Chemistry Lab
+<b> Experiment|     </b> 1. Preparation of Phenol-formaldehyde resin.
 
 <h4> [1. Focus Area](#LO)
 <h4> [2. Learning Objectives ](#LO)
