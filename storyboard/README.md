@@ -21,32 +21,37 @@ The students has to click "Start" on simulator page for starting the experiment 
 6. When student wants to start from begining once again then he/she will click on **Reset** button on the screen.  
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+The objective of this experiment is to understand the phenonmenon of polymerization, concept of thermosetting plastic and mechanisme of condensation polymerization.<br>The reaction of phenol and formaldehyde proceed in presence of HCl catalyst to form a hard, rigid and water insoluble polymeric compound is form called as phenol formaldehyde (P-F) resin.
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+The pathways activities of preparation of P-F resin are:<br>
+1. Mixing of phenol, formaldehyde and catalyst<br>
+2. Heating the mixture with shaking<br>
+3. Condensation reaction taken place<br>
+4. Crosslinking occurs<br>
+5. P-F resin formed.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-1. Learning objective:**Remember** <br>
+1. Learning objective: **Remember** <br>
 
 Question 1. In presence of P-F resin, the catalyst is:<br> A. Phenol<br> B. Formaldehyde<br> **C. Hydrochloric Acid**<br> D. Water<br>
 
 Question 2. The P-F resin is a:<br> A. Rubber<br> **B. Thermosetting Plastic**<br> C. Thermoplastic<br> D. Addition Polymer
 
-2. Learning objective:**Evaluate** <br>
+2. Learning objective: **Evaluate** <br>
 
 Question 1. A condensation reaction:<br> A. Two group are added only<br> **B. Two group form another group**<br> C. It is a decomposition reaction<br> D. It is a subsitution reaction <br>
 
 Question 2. Phenol is an:<br> **A. Organic compound**<br> B. Inorganic compound<br> C. Atom<br> D. Non-carbon compound
 
-3. Learning objective:**Analyse** <br>
+3. Learning objective: **Analyse** <br>
 
 Question1: Solid P-F rein float on water due to:<br> A. It is soluble in water<br> **B. It is insoluble in water**<br> C. It can react with water<br> D. All above <br>
 
 Question 1. P-F resin is:<br> A. A simple molecule <br> B. A complex compound<br> **C. A polymer**<br> D. None
 
-4. Learning objective:**Examine** <br>
+4. Learning objective: **Examine** <br>
 
 Question 1. P-F resin can be prepared by:<br> A. reaction of acetic acid and phenol <br> B. phenol and HCl <br> C. HCl and formaldehyde<br> **D. phenol and formaldehyde** <br>
 
