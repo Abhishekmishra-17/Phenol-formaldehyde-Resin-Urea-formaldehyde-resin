@@ -1,7 +1,7 @@
 ##  Pre-test
 #### Please attempt the following questions
   
-1) Select the incorrect statement from the following option..<br>
+1) Select the incorrect statement from the following option.<br>
 a) Thermosets have 3-dimensional, cross-linked network structure<br>
 b) Thermosets cannot be remoulded, reused or reclaimed<br>
 c) Thermosets are hard, strong and brittle<br>
