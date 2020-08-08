@@ -12,7 +12,13 @@ Phenol-formaldehyde resin is also known as **phenolic resin** which is a type of
 Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+The students has to click "Start" on simulator page for starting the experiment and they has to go through instructions provided by simulator on "Procedure" section. The user must know the stepwise procedure also. <br>
+1.Click **Start**:Apparatus will be shown. <br>
+2.A next procedure will popup on the page, by which user will understand better. <br>
+3.Click **Next**: Chemical and apparatus will appear and also selected amount as mentioned in procedure. <br>
+4. Then click **Next**:Next procedure will be shown and student will follow that procedure. <br>
+5.When all procedure is done by student correctly then the result will show without any caution. <br>
+6. When student wants to start from begining once again then he/she will click on **Reset** button on the screen.  
 
 #### 2.2 Set User Objectives & Goals:
 Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
@@ -23,12 +29,21 @@ Describe the pathway activites here : (Guide : Set the pathway activities in lin
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+1.Learning objective:**Remember**<br>
+
+Question 1.In presence of P-F resin, the catalyst is:<br> A.Phenol<br> B.Formaldehyde<br> **C.Hydrochloric Acid**<br> D.Water<br>
+
+Question 2.The P-F resin is a:<br> A.Rubber<br> **B.Thermosetting Plastic**<br> C.Thermoplastic<br> D.Addition Polymer<br>
+
+2.Learning objective:**Evaluate** <br>
+
+Question 1.A condensation reaction:<br> A.Two group are added only<br> **B.Two group form another group**<br> C.It is a decomposition reaction<br> D.It is a subsitution reaction <br>
+
+Question 2.Phenol is an:<br> **A.Organic compound**<br> B.Inorganic compound<br> C.Atom<br> D.Non-carbon compound<br>
 
 ##### 2.5 Allow pitfalls:
-1. If user missed to add a major chemical:<br> <a href="https://www.codecogs.com/eqnedit.php?latex=\bullet" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bullet" title="\bullet" /></a> Caution indication of **"Please use proper chemical"**<br>
-2. If user does not select correct amount:<br><a href="https://www.codecogs.com/eqnedit.php?latex=\bullet" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bullet" title="\bullet" /></a> Caution indication of **"Please choose correct amount of chemical"**<br>
-3.If user does 
+1. If user missed to add a major chemical:<br> <a href="https://www.codecogs.com/eqnedit.php?latex=\bullet" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bullet" title="\bullet" /></a> Caution indication of **"Please use proper chemical"** <br>
+2. If user does not select correct amount:<br><a href="https://www.codecogs.com/eqnedit.php?latex=\bullet" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bullet" title="\bullet" /></a> Caution indication of **"Please choose correct amount of chemical"** <br>
 
 ##### 2.6 Conclusion:
 Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
