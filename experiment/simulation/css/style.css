@@ -1,0 +1,49 @@
+body{
+  padding: 50px;
+  background-color: lightblue;
+}
+.font-size-30 {
+  font-size: 30px;
+}
+.color-primary {
+  color: #003859;
+}
+
+.color-primary-bg {
+  background: #003859;
+}
+
+.color-second {
+  color: #00A5C4;
+}
+
+.color-second-bg {
+  background: #00A5C4;
+}
+
+.color-yellow {
+  color: #FFD289;
+}
+
+.color-yellow-bg {
+  background: #FFD289;
+}
+.brd{
+  margin: 30px;
+  padding:50px;
+  box-sizing: border-box;
+    box-shadow: -3px -3px 7px #ffffff73, -3px 3px 5px rgba(94,104,121,.288);
+    background-color: lightgreen;
+}
+#value0{
+  margin: 30px;
+    width: 500px;
+  height: 600px;
+  padding: 50px;
+  border: 1px solid red;
+  box-sizing: border-box;
+}
+.button1{
+  padding-top: 20px;
+  margin-top: 10px
+}
