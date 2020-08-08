@@ -33,25 +33,25 @@ The pathways activities of preparation of P-F resin are:<br>
 5. P-F resin formed.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-1. Learning objective: **Remember** <br>
+1. Difficulty Level: **Remember** <br>
 
 Question 1. In presence of P-F resin, the catalyst is:<br> A. Phenol<br> B. Formaldehyde<br> **C. Hydrochloric Acid**<br> D. Water<br>
 
 Question 2. The P-F resin is a:<br> A. Rubber<br> **B. Thermosetting Plastic**<br> C. Thermoplastic<br> D. Addition Polymer
 
-2. Learning objective: **Evaluate** <br>
+2. Difficulty Level: **Evaluate** <br>
 
 Question 1. A condensation reaction:<br> A. Two group are added only<br> **B. Two group form another group**<br> C. It is a decomposition reaction<br> D. It is a subsitution reaction <br>
 
 Question 2. Phenol is an:<br> **A. Organic compound**<br> B. Inorganic compound<br> C. Atom<br> D. Non-carbon compound
 
-3. Learning objective: **Analyse** <br>
+3. Difficulty Level: **Analyse** <br>
 
 Question1: Solid P-F rein float on water due to:<br> A. It is soluble in water<br> **B. It is insoluble in water**<br> C. It can react with water<br> D. All above <br>
 
 Question 1. P-F resin is:<br> A. A simple molecule <br> B. A complex compound<br> **C. A polymer**<br> D. None
 
-4. Learning objective: **Examine** <br>
+4. Difficulty Level: **Examine** <br>
 
 Question 1. P-F resin can be prepared by:<br> A. reaction of acetic acid and phenol <br> B. phenol and HCl <br> C. HCl and formaldehyde<br> **D. phenol and formaldehyde** <br>
 
