@@ -9,7 +9,6 @@ Phenol-formaldehyde resin is also known as **phenolic resin** which is a type of
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
 
 #### 2.1 Set the Visual Stage Description:
 The students has to click "Start" on simulator page for starting the experiment and they has to go through instructions provided by simulator on "Procedure" section. The user must know the stepwise procedure also. <br>
@@ -64,7 +63,10 @@ Question 2. P-F resin is used as:<br> **A. Adhessive**<br> B. Food<br> C. Clothi
 2. If user does not select correct amount:<br><a href="https://www.codecogs.com/eqnedit.php?latex=\bullet" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bullet" title="\bullet" /></a> Caution indication of **"Please choose correct amount of chemical"** <br>
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+The main conclusions from this effort can be summarized as follows:<br> 1) The TG-FTIR method can provide information on several aspects of polymer thermal decomposition behavior including kinetics and degradation mechanisms;<br> 2) The FG-DVC model can be generalized to predict kinetics, product
+evolution, tar yields, and tar molecular weight distributions for phenol formaldehyde and other charring polymers over a wide range of conditions;<br>
+3) The key inputs required to model the decomposition of a charring polymer are the network parameters, depolymerization reactions, crosslinking reactions, and gas formation reactions;<br>
+4) The choice between two alternative crosslinking reactions may lead to a different choice of network parameters. 
 
 ##### 2.7 Equations/formulas: NA
 Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
