@@ -1,4 +1,4 @@
-## <b> Pre-test
+##  Pre-test
 #### Please attempt the following questions
   
 1) Select the incorrect statement from the following option..<br>
