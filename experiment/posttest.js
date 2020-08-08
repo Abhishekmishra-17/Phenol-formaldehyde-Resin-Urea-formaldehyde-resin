@@ -90,27 +90,46 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Which simple molecule is released during condensation of phenol and formaldehyde?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Water",                  ///// Write the option 1 inside double quotes
+        b: "HCl",                  ///// Write the option 2 inside double quotes
+        c: "NH3",                  ///// Write the option 3 inside double quotes
+        d: "None of these"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "Phenol formaldehyde is __________?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Solid",                  ///// Write the option 1 inside double quotes
+        b: "Liquid",                  ///// Write the option 2 inside double quotes
+        c: "Gas",                  ///// Write the option 3 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
+     {
+      question: "On heating P-F resin gets",
+      answers: {
+        a: "softened",
+        b: "more hardened",
+        c: "no effect on structure",
+        d: "All above"
+      },
+      correctAnswer: "c"
+    },
+     {
+      question: "Color of final product is",
+      answers: {
+        a: "Green",
+        b: "Blue",
+        c: "Yellow",
+        d: "Pink"
+      },
+      correctAnswer: "d"
+    },
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
