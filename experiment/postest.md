@@ -7,14 +7,14 @@ c) NH<sub>3</sub><br>
 d) None of these.<br>
 
 2) Phenol formaldehyde is __________.<br>
-a) Solid<br>
-<b> b) Liquid<br></b>
+<b>a) Solid<br></b>
+b) Liquid<br>
 c) Gas<br>
 
 3) On heating P-F resin gets :<br>
 a) softened<br>
-<b>b) more hardened<br></b>
-c) no effect on structure<br>
+b) more hardened<br>
+<b>c) no effect on structure<br></b>
 d) All above.<br>
 
 4) Color of final product is: <br>
