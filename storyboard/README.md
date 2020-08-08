@@ -8,7 +8,8 @@ Experiment 1: Preparation of Phenol-formaldehyde resin.
 Phenol-formaldehyde resin is also known as **phenolic resin** which is a type of thermosetting plastic. It is synthesized by condensation polymerization and cross-linking of phenol and formaldehyde by heating in presence of acid catalyst **Novolac** and bakelite are well known P-F resin.<br>In presence of a base catalyst another P-F resin **Resol** is obtained. Atcommercial scale they are used in lamination, thermal resistance, adhessive and many more.<br> The chemical composition of phenoland formaldehyde and their combination into network are interlinked permanently that give them rigid and hard structure,it is due to crosslinked networking.
 
 ### 2. Story:
-
+The student clicks on the "Start" button for starting the simulator. Once the simulator is started then they will follow the procedures shown in the simulator. When the user does not follow the working procedure or if it gives wrong input at any step then a caution pop-up will open.
+The student has choice of selection of apparatus, chemicals, and their quantity by clicking on the "Select" button. When all steps will go correctly then after clicking on the "execute" button they will able to see the required P-F resin.  
 
 #### 2.1 Set the Visual Stage Description:
 The students has to click "Start" on simulator page for starting the experiment and they has to go through instructions provided by simulator on "Procedure" section. The user must know the stepwise procedure also. <br>
@@ -63,7 +64,7 @@ Question 2. P-F resin is used as:<br> **A. Adhessive**<br> B. Food<br> C. Clothi
 2. If user does not select correct amount:<br><a href="https://www.codecogs.com/eqnedit.php?latex=\bullet" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bullet" title="\bullet" /></a> Caution indication of **"Please choose correct amount of chemical"** <br>
 
 ##### 2.6 Conclusion:
-The main conclusions from this effort can be summarized as follows:<br> 1) The TG-FTIR method can provide information on several aspects of polymer thermal decomposition behavior including kinetics and degradation mechanisms;<br> 2) The FG-DVC model can be generalized to predict kinetics, product
+The main conclusions from this effort can be summarized as follows:<br> 1) The Simulator can provide information on several aspects of polymer thermal decomposition behavior including kinetics and degradation mechanisms;<br> 2) The Simulator model can be generalized to predict kinetics, product
 evolution, tar yields, and tar molecular weight distributions for phenol formaldehyde and other charring polymers over a wide range of conditions;<br>
 3) The key inputs required to model the decomposition of a charring polymer are the network parameters, depolymerization reactions, crosslinking reactions, and gas formation reactions;<br>
 4) The choice between two alternative crosslinking reactions may lead to a different choice of network parameters. 
@@ -74,12 +75,12 @@ Tool can be used to integrate formula in Markdown <b> [here](http://latex.codeco
 
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
+<img src="flowchart/vl42.JPG"/><br>
 link to flow chart Here :<a href="flowchart/flowchart.png">Flowchart</a>
 <br>
 
 ### 4. Mindmap:
-<img src="mindmap/mindmap.png"/><br>
+<img src="mindmap/vl41.JPG"/><br>
  Link to mindmap here : <a href="mindmap/mindmap.png">Mind-map</a>
  <br>
 
