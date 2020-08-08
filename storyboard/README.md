@@ -28,18 +28,31 @@ Describe the objectives and goals in details here : (guide : The user should cle
 Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
+1. Learning objective:**Remember** <br>
 
-1.Learning objective:**Remember**<br>
+Question 1. In presence of P-F resin, the catalyst is:<br> A. Phenol<br> B. Formaldehyde<br> **C. Hydrochloric Acid**<br> D. Water<br>
 
-Question 1.In presence of P-F resin, the catalyst is:<br> A.Phenol<br> B.Formaldehyde<br> **C.Hydrochloric Acid**<br> D.Water<br>
+Question 2. The P-F resin is a:<br> A. Rubber<br> **B. Thermosetting Plastic**<br> C. Thermoplastic<br> D. Addition Polymer
 
-Question 2.The P-F resin is a:<br> A.Rubber<br> **B.Thermosetting Plastic**<br> C.Thermoplastic<br> D.Addition Polymer<br>
+2. Learning objective:**Evaluate** <br>
 
-2.Learning objective:**Evaluate** <br>
+Question 1. A condensation reaction:<br> A. Two group are added only<br> **B. Two group form another group**<br> C. It is a decomposition reaction<br> D. It is a subsitution reaction <br>
 
-Question 1.A condensation reaction:<br> A.Two group are added only<br> **B.Two group form another group**<br> C.It is a decomposition reaction<br> D.It is a subsitution reaction <br>
+Question 2. Phenol is an:<br> **A. Organic compound**<br> B. Inorganic compound<br> C. Atom<br> D. Non-carbon compound
 
-Question 2.Phenol is an:<br> **A.Organic compound**<br> B.Inorganic compound<br> C.Atom<br> D.Non-carbon compound<br>
+3. Learning objective:**Analyse** <br>
+
+Question1: Solid P-F rein float on water due to:<br> A. It is soluble in water<br> **B. It is insoluble in water**<br> C. It can react with water<br> D. All above <br>
+
+Question 1. P-F resin is:<br> A. A simple molecule <br> B. A complex compound<br> **C. A polymer**<br> D. None
+
+4. Learning objective:**Examine** <br>
+
+Question 1. P-F resin can be prepared by:<br> A. reaction of acetic acid and phenol <br> B. phenol and HCl <br> C. HCl and formaldehyde<br> **D. phenol and formaldehyde** <br>
+
+Question 2. P-F resin is used as:<br> **A. Adhessive**<br> B. Food<br> C. Clothing<br> D. Motor 
+
+
 
 ##### 2.5 Allow pitfalls:
 1. If user missed to add a major chemical:<br> <a href="https://www.codecogs.com/eqnedit.php?latex=\bullet" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bullet" title="\bullet" /></a> Caution indication of **"Please use proper chemical"** <br>
