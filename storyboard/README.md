@@ -69,10 +69,8 @@ evolution, tar yields, and tar molecular weight distributions for phenol formald
 3) The key inputs required to model the decomposition of a charring polymer are the network parameters, depolymerization reactions, crosslinking reactions, and gas formation reactions;<br>
 4) The choice between two alternative crosslinking reactions may lead to a different choice of network parameters. 
 
-##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
-
+##### 2.7 Equations/formulas: 
+<img src="flowchart/preparation.JPG"/>
 
 ### 3. Flowchart 4
 <img src="flowchart/vl42.JPG"/><br>
