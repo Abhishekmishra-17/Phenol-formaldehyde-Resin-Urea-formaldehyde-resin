@@ -26,4 +26,14 @@ thermosetting polymers are Urea-Formaldehyde resin and Melamine-Formaldehyde res
 3. They are used for making electrical goods such as switches, plugs etc.<br>
 4. They are used for impregnating fabrics wood and paper.<br>
 5. They are used as bonding glue for for laminated wooden planks and in varnishes and lackuers.<br>
-6. Sulphonated phenol-formaldehyde resins are use as ion-exchange resins.
+6. Sulphonated phenol-formaldehyde resins are use as ion-exchange resins.<br>
+
+<b>Preparation:- </b><br>PFs are prepared by reaction of phenol with formaldehyde in the presence of acidic or
+basic catalyst. The process may be carried out as follows
+A mixture of phenol and formaldehyde are allowed to react in the presence of a catalyst. The process
+involves formation of methylene bridges in ortho, para or both ortho and para positions. This results
+first in the formation of linear polymer (Called NOVALAC) and then in to cross-linked polymer
+called phenol-formaldehyde resin or bakelite. <br>
+
+<img src="images/preparation.JPG"/>
+
