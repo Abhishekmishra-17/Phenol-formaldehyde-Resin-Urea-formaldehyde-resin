@@ -35,7 +35,7 @@ The pathways activities of preparation of P-F resin are:<br>
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 1. Difficulty Level: **Remember** <br>
 
-Question 1. In presence of P-F resin, the catalyst is:<br> A. Phenol<br> B. Formaldehyde<br> **C. Hydrochloric Acid**<br> D. Water<br>
+Question 1. In preparation  of P-F resin, the catalyst is:<br> A. Phenol<br> B. Formaldehyde<br> **C. Hydrochloric Acid**<br> D. Water<br>
 
 Question 2. The P-F resin is a:<br> A. Rubber<br> **B. Thermosetting Plastic**<br> C. Thermoplastic<br> D. Addition Polymer
 
@@ -47,7 +47,7 @@ Question 2. Phenol is an:<br> **A. Organic compound**<br> B. Inorganic compound<
 
 3. Difficulty Level: **Analyse** <br>
 
-Question1: Solid P-F rein float on water due to:<br> A. It is soluble in water<br> **B. It is insoluble in water**<br> C. It can react with water<br> D. All above <br>
+Question1: Solid P-F resin float on water due to:<br> A. It is soluble in water<br> **B. It is insoluble in water**<br> C. It can react with water<br> D. All above <br>
 
 Question 1. P-F resin is:<br> A. A simple molecule <br> B. A complex compound<br> **C. A polymer**<br> D. None
 
