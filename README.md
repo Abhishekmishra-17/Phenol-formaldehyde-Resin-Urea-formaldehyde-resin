@@ -48,9 +48,9 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Dr. Syed Khalid Hasan | Faculty | Department of Applied Sciences (Chemistry) | Institute of Technology & Management, GIDA, Gorakhpur | drskhasan@yahoo.com
 2 | Abhishek Mishra | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com
-3 | Raina Srivastava | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |srivastavaraina11996@gmail.com
-4 | Minal Srivastava | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |minalsrivastava09@gmail.com
-5 | Pankaj Kumar Gond | Student | Information Technology | Institute of Technology & Management, GIDA, Gorakhpur |pankajkumargond79@gmail.com
+3 | Ashish Shukla | Student | Computer Applications| Institute of Management  and Studies, Noida, Uttar Pradesh | Ashishgkp22@yahoo.com
+4 | Kriti Shukla | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | Kritishukla2019@gmail.com
+5 | Pankaj Kumar Gond | Student | Information Technology | Institute of Technology & Management, GIDA, Gorakhpur | pankajkumargond79@gmail.com
 
 
 <br>
