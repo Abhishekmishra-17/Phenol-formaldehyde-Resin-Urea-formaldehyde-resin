@@ -1,7 +1,5 @@
 ## Pedagogy (Round 1)
 <p align="center">
-
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
 <b> Experiment:</b> Phenol-Formaldehyde Resin Experiment  <a name="top"></a> <br>
@@ -48,7 +46,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Assessment Method: Formative Assessment
 
 <u> <b>Description: </b>  
-With sample procedure provided by default user, students will able to perform the experiment.They proceed the stpes by hitting "Procedure" button to understand the concepts.  </u>
+With sample procedure provided by default user, students will able to perform the experiment.They proceed the stpes by hitting "Procedure" button shown on simulator to understand the concepts.<br>Procedure button is different for different procedures accordingly.  </u>
 <br>
 On click "select" button they will be able to add particular apparatus and by hitting "start" button they will be able to start the use of that apparatus and finally analyzed the result.
 
