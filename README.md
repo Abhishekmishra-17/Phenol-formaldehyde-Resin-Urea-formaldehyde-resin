@@ -1,6 +1,4 @@
 ## Introduction (Round 0)
-
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
 <b>Discipline | <b>Engineering
@@ -53,5 +51,4 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 5 | Pankaj Kumar Gond | Student | Information Technology | Institute of Technology & Management, GIDA, Gorakhpur | pankajkumargond79@gmail.com
 
 
-<br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
+<br> </b>
