@@ -1,7 +1,5 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
 Experiment 1: Preparation of Phenol-formaldehyde resin.
 ### 1. Story Outline:
 
@@ -87,6 +85,3 @@ link to flow chart Here :<a href="flowchart/flowchart.png">Flowchart</a>
 <img src="images/v1.jpeg"/><br>
 <img src="images/v2.jpeg"/><br>
 <img src="images/v3.jpeg"/>
-Storyboard: <a href="Storyboard/carwiper.gif"> </a>
-Link to storybaord (.gif file ) here :
-(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
