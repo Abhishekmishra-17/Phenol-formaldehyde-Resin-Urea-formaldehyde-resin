@@ -1,7 +1,6 @@
 ## Pedagogy (Round 1)
 <p align="center">
 <br>
-<br>
 <b> Experiment:</b> Phenol-Formaldehyde Resin Experiment  <a name="top"></a> <br>
 </p>
 
