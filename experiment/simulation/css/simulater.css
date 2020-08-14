@@ -1,0 +1,621 @@
+.process-table{
+                width: 800px;
+                height: 450px;
+                background: #ededed;
+                position: relative;
+            }
+            .process-table::before{
+                content: "";
+                border-bottom:200px solid #44b0ff;
+                border-left:100px solid #ededed;
+                border-right:100px solid #ededed;
+                width:500px;
+                background: #44b0ff;
+                position: absolute;
+                bottom: 60px;
+                left: 50px;
+                -webkit-box-shadow: 0px 10px 0px -1px #0272c4;
+                -moz-box-shadow: 0px 10px 0px -1px #0272c4;
+                box-shadow: 0px 10px 0px -1px #0272c4;
+            }
+            .image-scale-custom{
+                width: 300px;
+                height: 120px;
+                position: absolute;
+                left: calc((800px / 2) - (150px / 2) );
+                background-image: url(../image/hotplate_0.png);
+                background-position: center;
+                background-size: contain;
+                background-repeat: no-repeat;
+                bottom: 100px;
+            }
+            .image-scale-full{
+                width: 100px;
+                height: 200px;
+                position: absolute;
+                left: calc((800px / 2) - (150px / 2) + 100px );
+                background-position: center;
+                background-size: contain;
+                background-repeat: no-repeat;
+                bottom: 175px;
+            }
+            
+            .image-scale-half{
+                width: 80px;
+                height: 220px;
+                position: absolute;
+                left: calc((800px / 2) - (150px / 2) - 150px);
+                background-position: center;
+                background-size: contain;
+                background-repeat: no-repeat;
+                bottom: 100px;
+            }
+            
+            .image-scale-half>img{
+                width: auto;
+                height: 100%;
+            }
+            .image-scale-half.animate{
+                animation: projection_glacial 5s;
+            }
+            @keyframes projection_glacial{
+                0%{
+                    background-image: url(../image/glacial_1.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px); 
+                    
+                }
+                5%{
+                    background-image: url(../image/glacial_2.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px); 
+                }
+                10%{
+                    background-image: url(../image/glacial_3.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px); 
+                }
+                15%{
+                    background-image: url(../image/glacial_4.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px); 
+                }
+                20%{
+                    background-image: url(../image/glacial_5.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px); 
+                }
+                25%{
+                    background-image: url(../image/glacial_6.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px); 
+                }
+                50%{
+                    background-image: url(../image/glacial_6.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px ); 
+                }
+                
+                60%{
+                    background-image: url(../image/glacial_7.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px ); 
+                }
+                80%{
+                    background-image: url(../image/glacial_7.png);
+                    transform: rotateZ(50deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 20px ); 
+                }
+                
+            }
+            .image-scale-half.animate-2{
+                animation: projection_formaldehyde 5s;
+            }
+            @keyframes projection_formaldehyde{
+                0%{
+                    background-image: url(../image/formaldehyde_1.png);
+                    transform: rotateZ(90deg);
+                   top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                    
+                }
+                5%{
+                    background-image: url(../image/formaldehyde_2.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                10%{
+                    background-image: url(../image/formaldehyde_3.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px ); 
+                }
+                15%{
+                    background-image: url(../image/formaldehyde_4.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                20%{
+                    background-image: url(../image/formaldehyde_5.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                25%{
+                    background-image: url(../image/formaldehyde_6.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                50%{
+                    background-image: url(../image/formaldehyde_6.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                
+                60%{
+                    background-image: url(../image/formaldehyde_7.png);
+                    transform: rotateZ(90deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                80%{
+                    background-image: url(../image/formaldehyde_7.png);
+                    transform: rotateZ(50deg);
+                    top: 0px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                
+            }
+           .image-scale-half.animate-3{
+                animation: projection_phenol 5s;
+            }
+            @keyframes projection_phenol{
+                0%{
+                    background-image: url(../image/phenol_0.png);
+                    transform: rotateZ(0deg);
+                   top: -40px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                    
+                }
+                50%{
+                    background-image: url(../image/phenol_0.png);
+                    transform: rotateZ(90deg);
+                    top: -40px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                
+                60%{
+                    background-image: url(../image/phenol_1.png);
+                    transform: rotateZ(90deg);
+                    top: -40px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                100%{
+                    background-image: url(../image/phenol_1.png);
+                    transform: rotateZ(50deg);
+                    top: -40px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                
+            }
+            .image-scale-half.animate-4{
+                            animation: projection_hcl 5s;
+                        }
+            @keyframes projection_hcl{
+                0%{
+                    background-image: url(../image/hcl_1.png);
+                    transform: rotateZ(0deg);
+                   top: -20px;
+                    left: calc((800px / 2) - (150px / 2) + 87px );
+                    
+                }
+                15%{
+                     background-image: url(../image/hcl_2.png);
+                    transform: rotateZ(90deg);
+                    top: -20px;
+                    left: calc((800px / 2) - (150px / 2) + 87px );
+                }
+                
+                30%{
+                     background-image: url(../image/hcl_3.png);
+                    transform: rotateZ(90deg);
+                    top: -20px;
+                    left: calc((800px / 2) - (150px / 2) + 87px );
+                }
+                45%{
+                     background-image: url(../image/hcl_4.png);
+                    transform: rotateZ(90deg);
+                    top: -20px;
+                    left: calc((800px / 2) - (150px / 2) + 87px );
+                }
+                60%{
+                     background-image: url(../image/hcl_5.png);
+                    transform: rotateZ(90deg);
+                    top: -20px;
+                    left: calc((800px / 2) - (150px / 2) + 87px );
+                }
+                75%{
+                     background-image: url(../image/hcl_6.png);
+                    transform: rotateZ(90deg);
+                    top: -20px;
+                    left: calc((800px / 2) - (150px / 2) + 87px );
+                }
+                100%{
+                     background-image: url(../image/hcl_6.png);
+                    transform: rotateZ(50deg);
+                    top: -20px;
+                    left: calc((800px / 2) - (150px / 2) + 87px );
+                }
+                
+            }
+            .image-scale-half.animate-5{
+                            animation: projection_water 5s;
+                        }
+            @keyframes projection_water{
+                0%{
+                    background-image: url(../image/water_0.png);
+                    transform: rotateZ(0deg);
+                   top: 50px;
+                    left: calc((800px / 2) - (150px / 2) + 90px );
+                    
+                }
+                20%{
+                     background-image: url(../image/water_1.png);
+                    transform: rotateZ(90deg);
+                    top: 50px;
+                    left: calc((800px / 2) - (150px / 2) + 90px );
+                }
+                
+                30%{
+                     background-image: url(../image/water_2.png);
+                    transform: rotateZ(90deg);
+                    top: 50px;
+                    left: calc((800px / 2) - (150px / 2) + 90px );
+                }
+                49%{
+                     background-image: url(../image/water_3.png);
+                    transform: rotateZ(90deg);
+                    top: 50px;
+                    left: calc((800px / 2) - (150px / 2) + 90px );
+                }
+                50%{
+                     background-image: url(../image/water_4.png);
+                    transform: rotateZ(90deg);
+                    top: 50px;
+                    left: calc((800px / 2) - (150px / 2) + 90px );
+                }
+                60%{
+                     background-image: url(../image/water_5.png);
+                    transform: rotateZ(90deg);
+                    top: 50px;
+                    left: calc((800px / 2) - (150px / 2) + 90px );
+                }
+                100%{
+                     background-image: url(../image/water_6.png);
+                    transform: rotateZ(50deg);
+                    top: 50px;
+                    left: calc((800px / 2) - (150px / 2) + 90px );
+                }
+                
+            }
+.image-scale-half.animate-6{
+                            animation: projection_filter 5s;
+                        }
+            @keyframes projection_filter{
+                0%{
+                    background-image: url(../image/filter.png);
+                    bottom: 30px;
+                    left: calc((800px / 2) - (150px / 2) + 50px );
+                    
+                }
+                20%{
+                     background-image: url(../image/filter_0.png);
+                    bottom: 30px;
+                    left: calc((800px / 2) - (150px / 2) +  50px );
+                }
+                
+                30%{
+                     background-image: url(../image/filter_1.png);
+                    bottom: 30px;
+                    left: calc((800px / 2) - (150px / 2) +  50px );
+                }
+                49%{
+                     background-image: url(../image/filter_2.png);
+                    bottom: 30px;
+                    
+                    left: calc((800px / 2) - (150px / 2) +  50px );
+                }
+                50%{
+                     background-image: url(../image/filter_3.png);
+                   bottom: 30px;
+                    
+                    left: calc((800px / 2) - (150px / 2) +  50px );
+                }
+                60%{
+                     background-image: url(../image/filter_4.png);
+                    
+                   bottom: 30px;
+                    left: calc((800px / 2) - (150px / 2) +  50px );
+                }
+                
+            }
+            .image-scale-full.animate{
+                animation: projection_beaker 2s;
+            }
+            @keyframes projection_beaker{
+                
+                0%{
+                    background-image: url(../image/beaker_fill_glacial_1.png);
+                }
+                25%{
+                    background-image: url(../image/beaker_fill_glacial_2.png);
+                }
+                50%{
+                    background-image: url(../image/beaker_fill_glacial_3.png);
+                }
+                75%{
+                    background-image: url(../image/beaker_fill_glacial_4.png); 
+                }
+                100%{
+                    background-image: url(../image/beaker_fill_glacial_5.png); 
+                }
+            }
+            .image-scale-full.animate-2{
+                animation: projection_beaker_2 2s;
+            }
+            @keyframes projection_beaker_2{
+                
+                0%{
+                    background-image: url(../image/beaker_fill_formaldehyde_1.png);
+                }
+                25%{
+                    background-image: url(../image/beaker_fill_formaldehyde_2.png);
+                }
+                50%{
+                    background-image: url(../image/beaker_fill_formaldehyde_3.png);
+                }
+                75%{
+                    background-image: url(../image/beaker_fill_formaldehyde_4.png); 
+                }
+                100%{
+                    background-image: url(../image/beaker_fill_formaldehyde_5.png); 
+                }
+            }
+          .image-scale-full.animate-3{
+                animation: projection_beaker_3 2s 5;
+            }
+            @keyframes projection_beaker_3{
+                
+                0%{
+                    background-image: url(../image/beaker_fill_glacial_heating.png);
+                }
+               
+                50%{
+                    background-image: url(../image/beaker_fill_glacial_heating_1.png);
+                }
+                
+                100%{
+                    background-image: url(../image/beaker_fill_glacial_heating.png); 
+                }
+            }
+
+            .image-scale-full.animate-4{
+                animation: projection_beaker_4 3s;
+            }
+            @keyframes projection_beaker_4{
+                
+                0%{
+                    background-image: url(../image/beaker_fill_phenol_0.png);
+                }
+               
+                50%{
+                    background-image: url(../image/beaker_fill_phenol_1.png);
+                }
+                
+                100%{
+                    background-image: url(../image/beaker_fill_phenol_2.png); 
+                }
+            }
+          .image-scale-full.animate-5{
+                animation: projection_beaker_5 2s;
+            }
+            @keyframes projection_beaker_5{
+                
+                0%{
+                    background-image: url(../image/beaker_fill_hcl_0.png);
+                }
+               
+                20%{
+                    background-image: url(../image/beaker_fill_hcl_1.png);
+                }
+                
+                40%{
+                    background-image: url(../image/beaker_fill_hcl_2.png); 
+                }
+                60%{
+                    background-image: url(../image/beaker_fill_hcl_3.png); 
+                }
+                80%{
+                    background-image: url(../image/beaker_fill_hcl_4.png); 
+                }
+                100%{
+                    background-image: url(../image/beaker_fill_hcl_5.png); 
+                }
+            }
+.image-scale-full.animate-6{
+                animation: projection_beaker_6 4s;
+            }
+            @keyframes projection_beaker_6{
+                
+                0%{
+                    background-image: url(../image/beaker_fill_hcl_stir_0.png);
+                    bottom: 185px;
+                }
+               
+                20%{
+                    background-image: url(../image/beaker_fill_hcl_stir_1.png);
+                    bottom: 185px;
+                }
+                
+                40%{
+                    background-image: url(../image/beaker_fill_hcl_stir_2.png); 
+                     bottom: 185px;
+                }
+                60%{
+                    background-image: url(../image/beaker_fill_hcl_stir_3.png);
+                    bottom: 185px;
+                }
+                80%{
+                    background-image: url(../image/beaker_fill_hcl_stir_0.png);
+                     bottom: 185px;
+                }
+                100%{
+                    background-image: url(../image/beaker_fill_hcl_5.png);
+                   
+                }
+                
+                
+            }
+.image-scale-full.animate-7{
+                animation: projection_beaker_7 4s;
+            }
+            @keyframes projection_beaker_7{
+                0%{
+                    background-image: url(../image/beaker_fill_pink_0.png); 
+                    
+                }
+                30%{
+                    background-image: url(../image/beaker_fill_pink_1.png);
+                    
+                }
+                50%{
+                    background-image: url(../image/beaker_fill_pink_2.png);
+                     
+                }
+                70%{
+                    background-image: url(../image/beaker_fill_pink_3.png);
+                     
+                }
+                100%{
+                    background-image: url(../image/beaker_fill_pink_4.png);
+                    
+                }
+}
+
+.image-scale-full.animate-8{
+                animation: projection_beaker_8 4s;
+            }
+            @keyframes projection_beaker_8{
+                0%{
+                    background-image: url(../image/beaker_fill_water_0.png); 
+                    
+                }
+                20%{
+                    background-image: url(../image/beaker_fill_water_1.png);
+                    
+                }
+                30%{
+                    background-image: url(../image/beaker_fill_water_2.png);
+                     
+                }
+                60%{
+                    background-image: url(../image/beaker_fill_water_3.png);
+                     
+                }
+                750%{
+                    background-image: url(../image/beaker_fill_water_4.png);
+                    
+                }
+                100%{
+                    background-image: url(../image/beaker_fill_water_5.png);
+                    
+                }
+}
+.image-scale-full.animate-9{
+                animation: projection_beaker_9 4s;
+            }
+            @keyframes projection_beaker_9{
+                0%{
+                    background-image: url(../image/beaker_empty_0.png); 
+                    bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+                20%{
+                    background-image: url(../image/beaker_empty_1.png);
+                    bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+                30%{
+                    background-image: url(../image/beaker_empty_2.png);
+                     bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+                60%{
+                    background-image: url(../image/beaker_empty_3.png);
+                     bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+                100%{
+                    background-image: url(../image/beaker_empty_4.png);
+                    bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+}
+
+            .call-to-action{
+                width: auto;
+                min-width: 100px;
+                padding: 2px 10px;
+                height: 40px;
+                text-align: center;
+                line-height: 40px;
+                background: #684ef8;
+                box-shadow: none;
+                outline: none;
+                border-radius: 2px;
+                border:0px;
+                color: #fff;
+                font-size: 15px;
+                border-bottom: 5px solid #8c7be8;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                cursor: pointer;
+                position: absolute;
+                bottom: 10px;
+                right: 20px;
+            }
+            .call-to-action.active:hover svg{
+                margin-left: 5px;
+                transition: all .1s;
+              }
+            .call-to-action.active:active{
+                border-bottom: 0px;
+            }
+            .call-to-action.disable{
+             background: #dedede;
+             border-bottom: 5px solid #989898;
+            }
