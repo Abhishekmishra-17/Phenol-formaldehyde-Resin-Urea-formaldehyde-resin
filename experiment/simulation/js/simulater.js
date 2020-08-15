@@ -96,7 +96,7 @@ window["onload"] = function(){
                          let tag = document.querySelector(elms[2]);
                          tag.classList.add('animate');
                          setTimeout(function(){
-                                tag.style.backgroundImage = 'url(./image/beaker_fill_glacial_5.png)';
+                                tag.style.backgroundImage = 'url(./images/beaker_fill_glacial_5.png)';
                                 tag = document.querySelector(elms[1]);
                                 tag.style.backgroundImage = 'url()';
                                 activeProcess = 1;
@@ -115,7 +115,7 @@ window["onload"] = function(){
                      let tag = document.querySelector(elms[2]);
                      tag.classList.add('animate-2');
                      setTimeout(function(){
-                            tag.style.backgroundImage = 'url(./image/beaker_fill_formaldehyde_6.png)';
+                            tag.style.backgroundImage = 'url(./images/beaker_fill_formaldehyde_6.png)';
                             tag = document.querySelector(elms[1]);
                             tag.style.backgroundImage = 'url()';
                             tag = document.querySelector(elms[0]);
@@ -135,7 +135,7 @@ window["onload"] = function(){
             //// heating
             function step3(){
                let tag = document.querySelector(elms[3]);
-               tag.style.backgroundImage = 'url(./image/hotplate_1.png)';
+               tag.style.backgroundImage = 'url(./images/hotplate_1.png)';
                tag = document.querySelector(elms[0]);
                tag.textContent = 'Stop Heating';
                tag = document.querySelector(elms[2]);
@@ -162,7 +162,7 @@ window["onload"] = function(){
                      let tag = document.querySelector(elms[2]);
                      tag.classList.add('animate-4');
                      setTimeout(function(){
-                            tag.style.backgroundImage = 'url(./image/beaker_fill_phenol_2.png)';
+                            tag.style.backgroundImage = 'url(./images/beaker_fill_phenol_2.png)';
                             tag = document.querySelector(elms[1]);
                             tag.style.backgroundImage = 'url()';
                             tag = document.querySelector(elms[0]);
@@ -187,7 +187,7 @@ window["onload"] = function(){
                  let tag = document.querySelector(elms[2]);
                  tag.classList.add('animate-5');
                  setTimeout(function(){
-                        tag.style.backgroundImage = 'url(./image/beaker_fill_hcl_5.png)';
+                        tag.style.backgroundImage = 'url(./images/beaker_fill_hcl_5.png)';
                         tag = document.querySelector(elms[1]);
                         tag.style.backgroundImage = 'url()';
                         tag = document.querySelector(elms[0]);
@@ -209,7 +209,7 @@ window["onload"] = function(){
         function step6(){
              let tag = document.querySelector(elms[2]);
              tag.classList.add('animate-6');
-             tag.style.backgroundImage = 'url(./image/beaker_fill_hcl_5.png)';
+             tag.style.backgroundImage = 'url(./images/beaker_fill_hcl_5.png)';
              tag = document.querySelector(elms[0]);
             setTimeout(function(){
             tag.textContent = 'Heating...';
@@ -225,7 +225,7 @@ window["onload"] = function(){
         function step7(){
              let tag = document.querySelector(elms[2]);
              tag.classList.add('animate-7');
-             tag.style.backgroundImage = 'url(./image/beaker_fill_pink_4.png)';
+             tag.style.backgroundImage = 'url(./images/beaker_fill_pink_4.png)';
              tag = document.querySelector(elms[0]);
              setTimeout(function(){
                  tag.textContent = 'Stop Heating';
@@ -261,7 +261,7 @@ window["onload"] = function(){
                     let tag = document.querySelector(elms[2]);
                     tag.classList.add('animate-8');
                     setTimeout(function(){
-                    tag.style.backgroundImage = 'url(./image/beaker_fill_water_5.png)';
+                    tag.style.backgroundImage = 'url(./images/beaker_fill_water_5.png)';
                     tag = document.querySelector(elms[1]);
                     tag.style.backgroundImage = 'url()';
                     tag = document.querySelector(elms[0]);

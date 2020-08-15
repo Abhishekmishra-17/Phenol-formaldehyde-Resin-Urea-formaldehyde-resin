@@ -63,7 +63,7 @@ function addToBar(index){
                         elementManaer(elem);
                         
                     }
-                    img.src = './image/beaker.png';
+                    img.src = './images/beaker.png';
                     break;
                 case 'item-2':
                     div1.classList.add('loading', 'item-2');
@@ -76,7 +76,7 @@ function addToBar(index){
                         elementManaer(elem);
                         
                     }
-                    img.src = './image/glacial_0.png';
+                    img.src = './images/glacial_0.png';
                     break;
                 case 'item-3':
                     div1.classList.add('loading', 'item-3');
@@ -89,7 +89,7 @@ function addToBar(index){
                         elementManaer(elem);
                         
                     }
-                    img.src = './image/formaldehyde_0.png';
+                    img.src = './images/formaldehyde_0.png';
                     break;
                 case 'item-4':
                     div1.classList.add('loading', 'item-4');
@@ -102,7 +102,7 @@ function addToBar(index){
                         elementManaer(elem);
                         
                     }
-                    img.src = './image/phenol_0.png';
+                    img.src = './images/phenol_0.png';
                     break;
                 case 'item-5':
                     div1.classList.add('loading', 'item-5');
@@ -116,7 +116,7 @@ function addToBar(index){
                         elementManaer(elem);
                         
                     }
-                    img.src = './image/hcl_0.png';
+                    img.src = './images/hcl_0.png';
                     break;
                 case 'item-6':
                     div1.classList.add('loading', 'item-6');
@@ -130,7 +130,7 @@ function addToBar(index){
                         elementManaer(elem);
                         
                     }
-                    img.src = './image/water_open.png';
+                    img.src = './images/water_open.png';
                     break;
                 
             }
@@ -161,32 +161,32 @@ function addToBar(index){
                for(let i= 0; i < classes.length; i++){
                    switch (classes[i]){
                        case 'item-1':
-                           document.querySelector('.image-scale-full').style.backgroundImage = 'url(./image/beaker.png)';
+                           document.querySelector('.image-scale-full').style.backgroundImage = 'url(./images/beaker.png)';
                            globalProcess.push('item-1');
                            parent.parentNode.removeChild(parent);
                            break;
                        case 'item-2':
-                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./image/glacial_0.png)';
+                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./images/glacial_0.png)';
                            globalProcess.push('item-2');
                            parent.parentNode.removeChild(parent);
                            break;
                       case 'item-3':
-                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./image/formaldehyde_0.png)';
+                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./images/formaldehyde_0.png)';
                            globalProcess.push('item-3');
                            parent.parentNode.removeChild(parent);
                            break;
                       case 'item-4':
-                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./image/phenol_0.png)';
+                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./images/phenol_0.png)';
                            globalProcess.push('item-4');
                            parent.parentNode.removeChild(parent);
                            break;
                       case 'item-5':
-                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./image/hcl_0.png)';
+                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./images/hcl_0.png)';
                            globalProcess.push('item-5');
                            parent.parentNode.removeChild(parent);
                            break;
                       case 'item-6':
-                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./image/water_open.png)';
+                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./images/water_open.png)';
                            globalProcess.push('item-6');
                            parent.parentNode.removeChild(parent);
                            break;
