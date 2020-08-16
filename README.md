@@ -1,7 +1,7 @@
 ## Introduction (Round 0)
 <br>
 
-<b>Discipline | <b>Engineering
+<b>Discipline | <b>Engineering Chemistry
 :--|:--|
 <b> Lab | <b>  Engineering Chemistry Lab
 <b> Experiment|     <b> Preparation of Phenol-formaldehyde Resin
