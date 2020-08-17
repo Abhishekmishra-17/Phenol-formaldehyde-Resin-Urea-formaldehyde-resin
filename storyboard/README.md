@@ -68,8 +68,10 @@ evolution, tar yields, and tar molecular weight distributions for phenol formald
 4) The choice between two alternative crosslinking reactions may lead to a different choice of network parameters. 
 
 ##### 2.7 Equations/formulas: 
-<img src="images/preparation.JPG"/>
-
+<b>For Phenol-formaldehyde Resin.</b><br>
+<img src="images/preparation.JPG"/><br>
+<b>For Urea-frormaldehyde Resin.</b><br>
+<img src="images/formula.JPG"/>
 ### 3. Flowchart 4
 <img src="flowchart/vl42.JPG"/><br>
 link to flow chart Here :<a href="flowchart/flowchart.png">Flowchart</a>
