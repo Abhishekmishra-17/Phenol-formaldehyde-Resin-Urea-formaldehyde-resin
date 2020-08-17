@@ -4,10 +4,10 @@
 <b> Experiment:</b> Phenol-Formaldehyde Resin Experiment  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | </b>Engineering 
+<b>Discipline | </b>Engineering Chemistry
 :--|:--|
 <b> Lab | </b> Engineering Chemistry Lab
-<b> Experiment|     </b> 1. Preparation of Phenol-formaldehyde resin.
+<b> Experiment|     </b> 1. Preparation of Phenol-formaldehyde and Urea-formaldehyde resin.
 
 <h4> [1. Focus Area](#LO)
 <h4> [2. Learning Objectives ](#LO)
@@ -19,7 +19,7 @@
 <a name="LO"></a>
 #### 1. Focus Area : Exprimentation and Data Analysis
 
-The students know the concept of thermosetting plastic ,condensation polymerization,molecular reaction. They do the experimentation based on the formula, trial and error and learn from it. They do the experiment in the presence an acid catalyst when phenol reacts with excess formaldehyde, a linear P-F(Phenol- formaldehyde) resin novolac is formed.
+The students know the concept of thermosetting plastic ,condensation polymerization,molecular reaction. They do the experimentation based on the formula, trial and error and learn from it. They do the experiment in the presence an acid catalyst. When phenol reacts with excess formaldehyde, a linear P-F(Phenol- formaldehyde) resin novolac is formed and when urea reacts with formaldehyde in the presence of sulphuric acid, a U-F(Urea-formaldehyde) is formed.
 
 #### 2. Learning Objectives and Cognitive Level
 
@@ -30,7 +30,8 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 2.| User will be able to: <br>Predict the effect of temperature on condensation process | Evaluate | Predict
 3.| User will be able to: <br>Examine the nature of Phenol-formaldehyde(P-F) resin on heating | Analyse | Examine
 4.| User will be able to: <br>Identify the adhessive behaviour of Phenol-formaldehyde(P-F) resin | Examine | Identify
-
+5.| User will be able to: <br>Examine the nature of Urea-formaldehyde(U-F) resin | Analyse | Examine
+6.| User will be able to: <br>Identify the  behaviour of Urea-formaldehyde(U-F) mixture when sulphuric acid is added | Examine | Identify
 
 <br/>
 <div align="right">
@@ -48,7 +49,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 With sample procedure provided by default user, students will able to perform the experiment.They proceed the stpes by hitting "Procedure" button shown on simulator to understand the concepts.<br>Procedure button is different for different procedures accordingly.  </u>
 <br>
 On click "select" button they will be able to add particular apparatus and by hitting "start" button they will be able to start the use of that apparatus and finally analyzed the result.
-
+Both Phenol-formaldehyde simulator and urea-formaldehyde simulator work on same strategy.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -67,7 +68,9 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 1.| Describe the method for condensation polymerization <br> Condensation polymers are any kind of polymers formed through a condensation reaction—where molecules join together—losing small molecules as byproducts such as water or methanol. | Students click on "Procedure" button <br> to see the concepts, steps and all information. | What is condensation polymerization?
 2.| Predict the effect of temperature on condensation process <br>  | Student will predict the changes occurrs<br> in the product which is avilable on hot-plate .  | what this e nature of the product?
 3.| Examine the nature of Phenol-formaldehyde(P-F) resin on heating <br>  |  Students click on "add" button for adding required apparatus <br> and by clicking on "select" button they will able to select particular reagent.  |  Phenol formaldehyde is in form of:- <br> <b>A. Solid<br></b> B. Liquid <br> C. Gas <br> D. Plasma
-4.| Identify the adhessive behaviour<br> of Phenol-formaldehyde(P-F) resin   |  Students click on "excute" button for identifying <br> the final product. |  What is the  color of P-F? 
+4.| Identify the adhessive behaviour<br> of Phenol-formaldehyde(P-F) resin   |  Students click on "excute" button for identifying <br> the final product. |  What is the  color of P-F?
+5.| Examine the nature of <br> urea-formaldehyde(U-F) resin   |  Students click on "excute" button for identifying <br> the final product. |  What is the  color of P-F?
+6.| Identify the adhessive behaviour<br> of Phenol-formaldehyde(P-F) resin   |  Students click on "excute" button for identifying <br> the final product. |  What is the  color of P-F?
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
