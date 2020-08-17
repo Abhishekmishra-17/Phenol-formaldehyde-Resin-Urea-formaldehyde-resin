@@ -4,15 +4,15 @@
 <b>Discipline | <b>Engineering Chemistry
 :--|:--|
 <b> Lab | <b>  Engineering Chemistry Lab
-<b> Experiment|     <b> Preparation of Phenol-formaldehyde Resin
+<b> Experiment|     <b> Preparation of Phenol-formaldehyde and Urea-formaldehyde Resin.
 
 <h5> About the Lab (Objective) : </h5>
 
-To prepare Phenol-formaldehyde (P-F) Resin.
+To prepare Phenol-formaldehyde (P-F) and Urea-formaldehyde(U-F)Resin.
 
 <h5> About the Experiment : </h5>
 
-Phenol-formaldehyde resin is a thermosetting plastic of the class of condensation polymers, which is obtained by condensation polymerization of phenol and formaldehyde in presence of an acid catalyst. The commercial name is Bakelite named in honour of an American chemist Backeland.
+Phenol-formaldehyde resin is a thermosetting plastic of the class of condensation polymers, which is obtained by condensation polymerization of phenol and formaldehyde in presence of an acid catalyst. The commercial name is Bakelite named in honour of an American chemist Backeland.<br>Urea-formaldehyde is prepared by the reaction of formaldehyde with urea in the presence of sulphuric acid.
 
 <h5> Target Audience : </h5>
 
