@@ -1,4 +1,5 @@
 # Theory:-
+ <b>1.Phenol-formladehyde Resin.</b><br>
 Phenol formaldehyde resins (PFs) are condensation polymers and are obtained by
 condensing phenol with formaldehyde in the presence of an acidic or alkaline catalyst. They were
 first prepared by Backeland, an American Chemist who gave them the name as Bakelite. These are
@@ -35,5 +36,22 @@ involves formation of methylene bridges in ortho, para or both ortho and para po
 first in the formation of linear polymer (Called NOVALAC) and then in to cross-linked polymer
 called phenol-formaldehyde resin or bakelite. <br>
 
-<img src="images/preparation.JPG"/>
+<img src="images/preparation.JPG"/><br>
 
+<b>2. Urea-formladehyde Resin.</b><br>
+Urea-formaldehyde is also called urea-methanal and is named so for its common synthesis pathway and overall structure. It is a non-transparent thermosetting resin or plastic which is made from urea and formaldehyde when they are heated in the presence of a mild base such as ammonia or pyridine. These resins are commonly used in adhesives, finishes, and molded objects as shown in the picture alongside.  Urea-formaldehyde resin was first produced in 1884 by Hölzer, who was working with Bernhard Tollens.<br>
+A class of synthetic resins called  Urea-formaldehyde resin is obtained by chemical combination of urea (a solid crystal obtained from ammonia) and formaldehyde (a highly reactive gas obtained from methane). Urea-formaldehyde resins are used mostly as adhesives for the bonding of plywood, particleboard, and other structured wood products.
+
+<b> Production Steps</b>
+The synthesis of a urea-formaldehyde resin occurs in two stages. In the first stage of production, urea is hydroxymethylolated by the addition of formaldehyde to the amino groups.  This reaction is i a series of reactions which lead to the formation of mono-, di-, and trimethylolureas. Tetramethylolurea is apparently not produced, but atleast not in a detectable quantity.
+
+
+The addition of formaldehyde to urea takes place over the entire range of pH.  The reaction rate depends on the pH. The rate for the addition of formaldehyde to urea is successively form one, two, and three methylol groups which has been estimated to be in the ratio of 9:3:1, respectively.The exact ratio depends on the reaction conditions employed in the addition reaction.
+
+The second stage of urea-formaldehyde resin production includes the condensation of the methylolureas to low molecular weight polymers. The rate at which these condensation reactions  occur is very dependent on the pH and, for all practical purposes depends on only atacidic pHs. The increase in the molecular weight of the urea-formaldehyde resin under acidic conditions is a combination of reactions leading to the formation of:<br>
+
+1.methylene bridges between more amido nitrogens by the reaction of methylol and amino groups on reacting molecule;<br>
+2.methylene ether linkages through the reaction of two methylol groups;<br>
+3.methylene linkages from methylene ether linkages through the splitting out of formaldehyde;<br>
+4.methylene linkages through the reaction of methylol groups splitting out water and formaldehyde in the proce.<br>
+ <img src="images/formula.JPG"/><br>
