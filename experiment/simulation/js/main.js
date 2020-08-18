@@ -26,7 +26,7 @@ function experment2(){
      document.querySelector('.image-scale-full').style.bottom = '100px';
     document.querySelector('.box-1 > h3').textContent = 'To Prepare Urea Formaldehyde Resin';
     document.querySelector('.hotplate ').style.display = 'none';
-    document.querySelector('.steps > p ').textContent = 'Add 5(ml) of 40% Formaldehyde solution in 100(ml) of Beaker';
+    document.querySelector('.steps > p ').textContent = 'Add 5 mL of 40% Formaldehyde solution in 250 mL of Beaker';
     let items = document.getElementsByClassName('exp-1');
     for(let x = 0; x < items.length; x++){
         items[x].style.display = 'none';
