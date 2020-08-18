@@ -101,7 +101,7 @@
     },
 
     {
-      question: "Phenol formaldehyde is __________?",  ///// Write the question inside double quotes
+      question: "Urea formaldehyde is __________?",  ///// Write the question inside double quotes
       answers: {
         a: "Solid",                  ///// Write the option 1 inside double quotes
         b: "Liquid",                  ///// Write the option 2 inside double quotes
@@ -121,12 +121,22 @@
       correctAnswer: "c"
     },
      {
-      question: "Color of final product is",
+      question: "Color of phenol-formaldehyde resin is",
       answers: {
         a: "Green",
         b: "Blue",
         c: "Yellow",
         d: "Pink"
+      },
+      correctAnswer: "d"
+    },
+    {
+      question: "Color of urea-formaldehyde resin is",
+      answers: {
+        a: "Green",
+        b: "Blue",
+        c: "Yellow",
+        d: "White"
       },
       correctAnswer: "d"
     },
