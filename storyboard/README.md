@@ -6,8 +6,8 @@ Experiment 1: Preparation of Phenol-formaldehyde and Urea-formaldehyde resin.
 Phenol-formaldehyde resin is also known as **phenolic resin** which is a type of thermosetting plastic. It is synthesized by condensation polymerization and cross-linking of phenol and formaldehyde by heating in presence of acid catalyst **Novolac** and bakelite are well known P-F resin.<br>In presence of a base catalyst another P-F resin **Resol** is obtained. Atcommercial scale they are used in lamination, thermal resistance, adhessive and many more.<br> The chemical composition of phenoland formaldehyde and their combination into network are interlinked permanently that give them rigid and hard structure,it is due to crosslinked networking.
 
 ### 2. Story:
-The student clicks on the "Start" button for starting the simulator. Once the simulator is started then they will follow the procedures shown in the simulator. When the user does not follow the working procedure or if it gives wrong input at any step then a caution pop-up will open.
-The student has choice of selection of apparatus, chemicals, and their quantity by clicking on the "Select" button. When all steps will go correctly then after clicking on the "execute" button they will able to see the required P-F resin.  
+The student clicks on the "Select" button for selecting the simulator.<br>Once the simulator is started then they will follow the procedures shown in the simulator. When the user does not follow the working procedure or if it gives wrong input at any step then a caution pop-up will open.
+The student has choice of selection of apparatus, chemicals, and their quantity by clicking on the "Select" button. When all steps will go correctly then after clicking on the "execute" button they will able to see the required P-F resin (U-F resin in case of Urea-formaldehyde simulator).  
 
 #### 2.1 Set the Visual Stage Description:
 The students has to click "Start" on simulator page for starting the experiment and they has to go through instructions provided by simulator on "Procedure" section. The user must know the stepwise procedure also. <br>
@@ -19,7 +19,7 @@ The students has to click "Start" on simulator page for starting the experiment 
 6. When student wants to start from begining once again then he/she will click on **Reset** button on the screen.  
 
 #### 2.2 Set User Objectives & Goals:
-The objective of this experiment is to understand the phenonmenon of polymerization, concept of thermosetting plastic and mechanisme of condensation polymerization.<br>The reaction of phenol and formaldehyde proceed in presence of HCl catalyst to form a hard, rigid and water insoluble polymeric compound is form called as phenol formaldehyde (P-F) resin.
+The objective of this experiment is to understand the phenonmenon of polymerization, concept of thermosetting plastic and mechanisme of condensation polymerization.<br>The reaction of phenol and formaldehyde proceed in presence of HCl catalyst to form a hard, rigid and water insoluble polymeric compound is form called as phenol formaldehyde (P-F) resin.<br> In the urea-formaldehyde resin, formaldehyde reacts with urea in the presence of ulphuric acid to give solid white color polymer names as urea-formaldehyde resin.
 
 #### 2.3 Set the Pathway Activities:
 
@@ -28,7 +28,13 @@ The pathways activities of preparation of P-F resin are:<br>
 2. Heating the mixture with shaking<br>
 3. Condensation reaction taken place<br>
 4. Crosslinking occurs<br>
-5. P-F resin formed.
+5. P-F resin formed.<br>
+The pathways activities of preparation of u-F resin are:<br>
+1. Mixing of urea, formaldehyde <br>
+2.  Mixing the sulphuric acid in the mixture with shaking<br>
+3. Condensation reaction taken place<br>
+4. Crosslinking occurs<br>
+5. U-F resin formed.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 1. Difficulty Level: **Remember** <br>
@@ -41,19 +47,19 @@ Question 2. The P-F resin is a:<br> A. Rubber<br> **B. Thermosetting Plastic**<b
 
 Question 1. A condensation reaction:<br> A. Two group are added only<br> **B. Two group form another group**<br> C. It is a decomposition reaction<br> D. It is a subsitution reaction <br>
 
-Question 2. Phenol is an:<br> **A. Organic compound**<br> B. Inorganic compound<br> C. Atom<br> D. Non-carbon compound
+Question 2. Urea is an:<br> **A. Organic compound**<br> B. Inorganic compound<br> C. Atom<br> D. Non-carbon compound
 
 3. Difficulty Level: **Analyse** <br>
 
 Question1: Solid P-F resin float on water due to:<br> A. It is soluble in water<br> **B. It is insoluble in water**<br> C. It can react with water<br> D. All above <br>
 
-Question 1. P-F resin is:<br> A. A simple molecule <br> B. A complex compound<br> **C. A polymer**<br> D. None
+Question 1. U-F resin is:<br> A. A simple molecule <br> B. A complex compound<br> **C. A polymer**<br> D. None
 
 4. Difficulty Level: **Examine** <br>
 
 Question 1. P-F resin can be prepared by:<br> A. reaction of acetic acid and phenol <br> B. phenol and HCl <br> C. HCl and formaldehyde<br> **D. phenol and formaldehyde** <br>
 
-Question 2. P-F resin is used as:<br> **A. Adhessive**<br> B. Food<br> C. Clothing<br> D. Motor 
+Question 2. U-F resin is used as:<br> **A. Adhessive**<br> B. Food<br> C. Clothing<br> D. Motor 
 
 
 
