@@ -42,7 +42,7 @@ called phenol-formaldehyde resin or bakelite. <br>
 Urea-formaldehyde is also called urea-methanal and is named so for its common synthesis pathway and overall structure. It is a non-transparent thermosetting resin or plastic which is made from urea and formaldehyde when they are heated in the presence of a mild base such as ammonia or pyridine. These resins are commonly used in adhesives, finishes, and molded objects as shown in the picture alongside.  Urea-formaldehyde resin was first produced in 1884 by Hölzer, who was working with Bernhard Tollens.<br>
 A class of synthetic resins called  Urea-formaldehyde resin is obtained by chemical combination of urea (a solid crystal obtained from ammonia) and formaldehyde (a highly reactive gas obtained from methane). Urea-formaldehyde resins are used mostly as adhesives for the bonding of plywood, particleboard, and other structured wood products.
 
-<b> Production Steps</b>
+<b> Production Steps</b><br>
 The synthesis of a urea-formaldehyde resin occurs in two stages. In the first stage of production, urea is hydroxymethylolated by the addition of formaldehyde to the amino groups.  This reaction is i a series of reactions which lead to the formation of mono-, di-, and trimethylolureas. Tetramethylolurea is apparently not produced, but atleast not in a detectable quantity.
 
 
