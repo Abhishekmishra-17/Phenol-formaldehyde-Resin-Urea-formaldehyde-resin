@@ -114,15 +114,15 @@
     {
       question: "Phenol is :",
       answers: {
-        a: "Liquid",
-        b: "Solid",
-        c: "Gas",
+        a: "Liquid with colorless",
+        b: "Solid with white color",
+        c: "Gas with pink color ",
         d: "Plasma"
       },
       correctAnswer: "b"
     },
     {
-      question: "Bakelite is:",
+      question: "Urea-formaldehyde is:",
       answers: {
         a: "Linear Polymer",
         b: "on-linear Polymer",
