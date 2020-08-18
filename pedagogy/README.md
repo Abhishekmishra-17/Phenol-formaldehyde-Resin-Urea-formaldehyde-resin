@@ -1,7 +1,7 @@
 ## Pedagogy (Round 1)
 <p align="center">
 <br>
-<b> Experiment:</b> Phenol-Formaldehyde Resin Experiment  <a name="top"></a> <br>
+<b> Experiment:</b> Phenol-Formaldehyde Resin and Urea-formaldehyde resin Experiment  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | </b>Engineering Chemistry
