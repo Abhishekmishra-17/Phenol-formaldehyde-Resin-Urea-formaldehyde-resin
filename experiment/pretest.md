@@ -13,13 +13,13 @@ b) Urea formaldehyde resins<br>
 c) Polyvinyl chloride<br>
 d) Polystyrene<br>
 
-3) Phenol is :<br>
-a) Liquid<br>
-<b>b) Solid<br></b>
-c) Gas<br>
+3) Urea is :<br>
+a) Liquid with colorless<br>
+<b>b) Solid with white color<br></b>
+c) Gas with pink color <br>
 d) Plasma<br>
 
-4) Bakelite is: <br>
+4) Urea-formaldehyde resin is: <br>
 a) Linear Polymer<br>
 b) Non-linear Polymer<br>
 <b>c) Crosslinked Polymer<br></b>
