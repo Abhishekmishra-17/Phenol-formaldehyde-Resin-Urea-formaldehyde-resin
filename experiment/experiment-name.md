@@ -1,1 +1,1 @@
-## Preparation of Phenol-formaldehyde resin
+## Preparation of Phenol-formaldehyde and Urea-formaldehyde resin.
