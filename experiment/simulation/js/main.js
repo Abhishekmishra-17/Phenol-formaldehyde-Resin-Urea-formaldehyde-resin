@@ -1,6 +1,37 @@
 var selectFinal, procedureBar, alertBar, alertMask, alertText, glovalSelector, globalListner , globalProcess, navbar ;
-
+var experiment = 0;
+var activeProcess = 0;
+var optionSheet = document.querySelector('.experiment-menu');
 init();
+document.querySelector('.option-1').addEventListener('click', function(){
+    experiment = 1;
+    optionSheet.style.display = 'none';
+    experment1();
+});
+document.querySelector('.option-2').addEventListener('click', function(){
+    experiment = 2;
+    activeProcess = 10;
+    optionSheet.style.display = 'none';
+    experment2();
+});
+function experment1(){
+    setTimeout(function(){procedureBar.classList.add('animate');}, 1000);
+    let items = document.getElementsByClassName('exp-2');
+    for(let x = 0; x < items.length; x++){
+        items[x].style.display = 'none';
+    }
+}
+function experment2(){
+    setTimeout(function(){procedureBar.classList.add('animate');}, 1000);
+     document.querySelector('.image-scale-full').style.bottom = '100px';
+    document.querySelector('.box-1 > h3').textContent = 'To Prepare Urea Formaldehyde Resin';
+    document.querySelector('.hotplate ').style.display = 'none';
+    document.querySelector('.steps > p ').textContent = 'Add 5(ml) of 40% Formaldehyde solution in 100(ml) of Beaker';
+    let items = document.getElementsByClassName('exp-1');
+    for(let x = 0; x < items.length; x++){
+        items[x].style.display = 'none';
+    }
+}
 
 function alertOver(text, callback){
        
@@ -37,7 +68,7 @@ selectFinal.forEach(item => {
     });
 
 function addToBar(index){
-           
+          
             var bar = document.querySelector('.row-1');
             var div1 = document.createElement('div');
             var div2 = document.createElement('div');
@@ -108,7 +139,7 @@ function addToBar(index){
                     div1.classList.add('loading', 'item-5');
                     
                     div2.appendChild(button);
-                    div3.textContent = 'HCl';
+                    div3.textContent = 'Hcl';
                     bar.appendChild(div1);
                     var img = new Image();
                     img.onload = function(){
@@ -127,6 +158,72 @@ function addToBar(index){
                     var img = new Image();
                     img.onload = function(){
                         var elem = document.querySelector('.row-1 .item-6');
+                        elementManaer(elem);
+                        
+                    }
+                    img.src = './images/water_open.png';
+                    break;
+                case 'item-7':
+                    div1.classList.add('loading', 'item-7');
+                    
+                    div3.textContent = 'Beaker';
+                    bar.appendChild(div1);
+                    var img = new Image();
+                    img.onload = function(){
+                        var elem = document.querySelector('.row-1 .item-7');
+                        elementManaer(elem);
+                        
+                    }
+                    img.src = './images/beaker.png';
+                    break;
+                case 'item-8':
+                    div1.classList.add('loading', 'item-8');
+                    
+                    div3.textContent = 'Formaldehyde';
+                    bar.appendChild(div1);
+                    var img = new Image();
+                    img.onload = function(){
+                        var elem = document.querySelector('.row-1 .item-8');
+                        elementManaer(elem);
+                        
+                    }
+                    img.src = './images/formaldehyde_0.png';
+                    break;
+                case 'item-9':
+                    div1.classList.add('loading', 'item-9');
+                    
+                    div3.textContent = 'Urea';
+                    bar.appendChild(div1);
+                    var img = new Image();
+                    img.onload = function(){
+                        var elem = document.querySelector('.row-1 .item-9');
+                        elementManaer(elem);
+                        
+                    }
+                    img.src = './images/urea_0.png';
+                    break;
+                case 'item-10':
+                    div1.classList.add('loading', 'item-10');
+                    
+                    div3.textContent = 'Conc. Sulphuric Acid';
+                    bar.appendChild(div1);
+                    var img = new Image();
+                    img.onload = function(){
+                        var elem = document.querySelector('.row-1 .item-10');
+                        elementManaer(elem);
+                        
+                    }
+                    img.src = './images/h2so4_0.png';
+                    break;
+                case 'item-11':
+                    div1.classList.add('loading', 'item-11');
+                    
+                    div2.appendChild(button);
+                    div3.textContent = 'Distilled Water';
+                    bar.appendChild(div1);
+                    var img = new Image();
+                    img.onload = function(){
+                        var elem = document.querySelector('.row-1 .item-11');
                         elementManaer(elem);
                         
                     }
@@ -155,6 +252,7 @@ function addToBar(index){
           }
          
         function dragItem(e){
+            
                var parent = e.target.parentNode.parentNode;
                var classes = parent.classList;
                console.log(classes);
@@ -190,6 +288,31 @@ function addToBar(index){
                            globalProcess.push('item-6');
                            parent.parentNode.removeChild(parent);
                            break;
+                      case 'item-7':
+                           document.querySelector('.image-scale-full').style.backgroundImage = 'url(./images/beaker.png)';
+                           globalProcess.push('item-7');
+                           parent.parentNode.removeChild(parent);
+                           break;
+                      case 'item-8':
+                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./images/formaldehyde_0.png)';
+                           globalProcess.push('item-8');
+                           parent.parentNode.removeChild(parent);
+                           break;
+                      case 'item-9':
+                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./images/urea_0.png)';
+                           globalProcess.push('item-9');
+                           parent.parentNode.removeChild(parent);
+                           break;
+                      case 'item-10':
+                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./images/h2so4_0.png)';
+                           globalProcess.push('item-10');
+                           parent.parentNode.removeChild(parent);
+                           break;
+                     case 'item-11':
+                           document.querySelector('.image-scale-half').style.backgroundImage = 'url(./images/water_open.png)';
+                           globalProcess.push('item-11');
+                           parent.parentNode.removeChild(parent);
+                           break;
                    }
                }
             
@@ -213,6 +336,6 @@ function addToBar(index){
         globalListner = new Array();
         globalProcess = new Array();
         navbar = document.querySelector('.disableSetion');
-        setTimeout(function(){procedureBar.classList.add('animate');}, 1000);
+        
         
     }

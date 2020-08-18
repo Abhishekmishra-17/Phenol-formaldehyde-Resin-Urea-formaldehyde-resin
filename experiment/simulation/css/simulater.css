@@ -352,6 +352,236 @@
                 }
                 
             }
+.image-scale-half.animate-7{
+                            animation: addformaldehyde_exp2 5s;
+                        }
+            @keyframes addformaldehyde_exp2{
+                0%{
+                    background-image: url(../images/formaldehyde_1.png);
+                    transform: rotateZ(90deg);
+                   top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                    
+                }
+                5%{
+                    background-image: url(../images/formaldehyde_2.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                10%{
+                    background-image: url(../images/formaldehyde_3.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 72px ); 
+                }
+                15%{
+                    background-image: url(../images/formaldehyde_4.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                20%{
+                    background-image: url(../images/formaldehyde_5.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                25%{
+                    background-image: url(../images/formaldehyde_6.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                50%{
+                    background-image: url(../images/formaldehyde_6.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                
+                60%{
+                    background-image: url(../images/formaldehyde_7.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                80%{
+                    background-image: url(../images/formaldehyde_7.png);
+                    transform: rotateZ(50deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                
+            }
+.image-scale-half.animate-8{
+                            animation: addurea_exp2 5s;
+                        }
+            @keyframes addurea_exp2{
+                0%{
+                    background-image: url(../images/urea_0.png);
+                    transform: rotateZ(0deg);
+                    top: -40px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                    
+                }
+                50%{
+                    background-image: url(../images/urea_0.png);
+                    transform: rotateZ(90deg);
+                    top: -40px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                
+                60%{
+                    background-image: url(../images/phenol_1.png);
+                    transform: rotateZ(90deg);
+                    top: -40px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                100%{
+                    background-image: url(../images/phenol_1.png);
+                    transform: rotateZ(50deg);
+                    top: -40px;
+                    left: calc((800px / 2) - (150px / 2) + 72px );
+                }
+                
+            }
+         
+         .image-scale-half.animate-9{
+                            animation: addh2so4_exp2 2s;
+                        }
+            @keyframes addh2so4_exp2{
+                0%{
+                    background-image: url(../images/h2so4_1.png);
+                    transform: rotateZ(0deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 92px );
+                    
+                }
+                15%{
+                     background-image: url(../images/h2so4_2.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 92px );
+                }
+                
+                30%{
+                     background-image: url(../images/h2so4_3.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 92px );
+                }
+                45%{
+                     background-image: url(../images/h2so4_4.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 92px );
+                }
+                60%{
+                     background-image: url(../images/h2so4_5.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 92px );
+                }
+                75%{
+                     background-image: url(../images/h2so4_6.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 92px );
+                }
+                100%{
+                     background-image: url(../images/h2so4_6.png);
+                    transform: rotateZ(50deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 92px );
+                }
+                
+            }
+.image-scale-half.animate-10{
+                            animation: projection_water2 4s;
+                        }
+            @keyframes projection_water2{
+                0%{
+                    background-image: url(../images/water_0.png);
+                    transform: rotateZ(0deg);
+                   top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 85px );
+                    
+                }
+                20%{
+                     background-image: url(../images/water_1.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 85px );
+                }
+                
+                30%{
+                     background-image: url(../images/water_2.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 85px );
+                }
+                49%{
+                     background-image: url(../images/water_3.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 85px );
+                }
+                50%{
+                     background-image: url(../images/water_4.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 85px );
+                }
+                60%{
+                     background-image: url(../images/water_5.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 85px );
+                }
+                90%{
+                     background-image: url(../images/water_6.png);
+                    transform: rotateZ(90deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 85px );
+                }
+                100%{
+                     background-image: url(../images/water_6.png);
+                    transform: rotateZ(50deg);
+                    top: 45px;
+                    left: calc((800px / 2) - (150px / 2) + 85px );
+                }
+                
+            }
+.image-scale-half.animate-11{
+                            animation: projection_filter_exp2 3s;
+                        }
+            @keyframes projection_filter_exp2{
+                0%{
+                    background-image: url(../images/filter_white_1.png);
+                   
+                    
+                }
+                25%{
+                     background-image: url(../images/filter_white_2.png);
+                    
+                }
+                
+                50%{
+                     background-image: url(../images/filter_white_3.png);
+                    
+                }
+                75%{
+                     background-image: url(../images/filter_white_4.png);
+                    
+                }
+                100%{
+                     background-image: url(../images/filter_white_5.png);
+                     
+                }
+                
+            }
+/**************************************************  Scale-full *********************************************************/
             .image-scale-full.animate{
                 animation: projection_beaker 2s;
             }
@@ -585,6 +815,168 @@
                 }
 }
 
+.image-scale-full.animate-10{
+                animation: projection_beaker_10 4s;
+            }
+            @keyframes projection_beaker_10{
+                0%{
+                    background-image: url(../images/beaker_fill_formaldehyde_1_1.png); 
+                  
+                }
+                20%{
+                    background-image: url(../images/beaker_fill_formaldehyde_1_2.png);
+                   
+                }
+                30%{
+                    background-image: url(../images/beaker_fill_formaldehyde_1_3.png);
+                   
+                }
+                60%{
+                    background-image: url(../images/beaker_fill_formaldehyde_1_4.png);
+                     
+                }
+                100%{
+                    background-image: url(../images/beaker_fill_formaldehyde_1_4.png);
+                   
+                }
+}
+
+.image-scale-full.animate-11{
+                animation: projection_beaker_11 4s;
+            }
+            @keyframes projection_beaker_11{
+                 
+                0%{
+                    background-image: url(../images/beaker_fill_urea_0.png);
+                }
+               
+                50%{
+                    background-image: url(../images/beaker_fill_urea_1.png);
+                }
+                
+                100%{
+                    background-image: url(../images/beaker_fill_urea_2.png); 
+                }
+}
+.image-scale-full.animate-12{
+                animation: projection_beaker_12 1s;
+            }
+            @keyframes projection_beaker_12{
+                 
+                0%{
+                    background-image: url(../images/beaker_fill_h2s04_0.png);
+                }
+               
+                50%{
+                    background-image: url(../images/beaker_fill_h2s04_1.png);
+                }
+                
+                100%{
+                    background-image: url(../images/beaker_fill_h2s04_2.png); 
+                }
+                 100%{
+                    background-image: url(../images/beaker_fill_h2s04_3.png); 
+                }
+}
+
+.image-scale-full.animate-13{
+                animation: projection_beaker_13 3s;
+            }
+            @keyframes projection_beaker_13{
+                 
+                0%{
+                    background-image: url(../images/beaker_white_mass_0.png);
+                }
+               
+                50%{
+                    background-image: url(../images/beaker_white_mass_1.png);
+                }
+                
+                75%{
+                    background-image: url(../images/beaker_white_mass_2.png); 
+                }
+                 100%{
+                    background-image: url(../images/beaker_white_mass_3.png); 
+                }
+}
+.image-scale-full.animate-14{
+                animation: projection_beaker_14 1s;
+            }
+            @keyframes projection_beaker_14{
+                 
+                0%{
+                    background-image: url(../images/h2so4_fill_water_0.png);
+                }
+               
+                25%{
+                    background-image: url(../images/h2so4_fill_water_1.png);
+                }
+                
+                50%{
+                    background-image: url(../images/h2so4_fill_water_2.png); 
+                }
+                75%{
+                    background-image: url(../images/h2so4_fill_water_3.png); 
+                }
+                90%{
+                    background-image: url(../images/h2so4_fill_water_4.png); 
+                }
+                100%{
+                    background-image: url(../images/h2so4_fill_water_5.png); 
+                    
+                }
+}
+.image-scale-full.animate-15{
+                animation: projection_beaker_15 3s;
+            }
+            @keyframes projection_beaker_15{
+                 
+                0%{
+                    background-image: url(../images/beaker_empty_exp2_4.png); 
+                    bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+                20%{
+                    background-image: url(../images/beaker_empty_exp2_3.png);
+                    bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+                30%{
+                    background-image: url(../images/beaker_empty_exp2_2.png);
+                     bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+                50%{
+                    background-image: url(../images/beaker_empty_exp2_1.png);
+                     bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+                70%{
+                    background-image: url(../images/beaker_empty_exp2_0.png);
+                    bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+                100%{
+                    background-image: url(../images/beaker_empty_exp2_5.png);
+                    bottom: 150px;
+                    transform: rotateZ(90deg);
+                    
+                    left: calc((800px / 2) - (150px / 2)  );
+                }
+}
+
+
+
             .call-to-action{
                 width: auto;
                 min-width: 100px;
@@ -619,3 +1011,7 @@
              background: #dedede;
              border-bottom: 5px solid #989898;
             }
+.image-scale-full.prianimate{
+    left: 180px;
+    transition-duration: 1s;
+}
