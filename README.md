@@ -12,7 +12,7 @@ To prepare Phenol-formaldehyde (P-F) and Urea-formaldehyde(U-F)Resin.
 
 <h5> About the Experiment : </h5>
 
-Phenol-formaldehyde resin is a thermosetting plastic of the class of condensation polymers, which is obtained by condensation polymerization of phenol and formaldehyde in presence of an acid catalyst. The commercial name is Bakelite named in honour of an American chemist Backeland.<br>Urea-formaldehyde is prepared by the reaction of formaldehyde with urea in the presence of sulphuric acid.
+Phenol-formaldehyde resin is a thermosetting plastic of the class of condensation polymers, which is obtained by condensation polymerization of phenol and formaldehyde in presence of an acid catalyst. The commercial name is Bakelite named in honour of an American chemist Backeland.<br>Urea-formaldehyde is prepared by the reaction of formaldehyde with urea in the presence of sulphuric acid.Urea-formaldehyde is also called urea-methanal and is named so for its common synthesis pathway and overall structure. It is a non-transparent thermosetting resin or plastic which is made from urea and formaldehyde when they are heated in the presence of a mild base such as ammonia or pyridine. These resins are commonly used in adhesives, finishes, and molded objects as shown in the picture alongside.  Urea-formaldehyde resin was first produced in 1884 by Hölzer, who was working with Bernhard Tollens.
 
 <h5> Target Audience : </h5>
 
