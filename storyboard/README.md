@@ -85,7 +85,7 @@ link to flow chart Here :<a href="flowchart/flowchart.png">Flowchart</a>
 <br>
 
 ### 4. Mindmap:
-<img src="mindmap/vl41.JPG"/><br>
+<img src="mindmap/vl4.JPG"/><br>
  Link to mindmap here : <a href="mindmap/mindmap.png">Mind-map</a>
  <br>
 
