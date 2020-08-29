@@ -68,9 +68,9 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 1.| Describe the method for condensation polymerization <br> Condensation polymers are any kind of polymers formed through a condensation reaction—where molecules join together—losing small molecules as byproducts such as water or methanol. | Students see the "procedure" section <br> on simulator for concepts, steps and all information. | What is condensation polymerization?
 2.| Predict the effect of temperature on condensation process <br>  | Student will predict the changes occurrs<br> in the product when beaker is on hot-plate .  | what this e nature of the product?
 3.| Examine the nature of Phenol-formaldehyde(P-F) resin on heating <br>  |  Students click on "add" button for adding required apparatus and chemicals <br> and by clicking on "select" button they will able to select particular reagent.  |  Phenol formaldehyde is in form of:- <br> <b>A. Solid<br></b> B. Liquid <br> C. Gas <br> D. Plasma
-4.| Identify the adhessive behaviour<br> of Phenol-formaldehyde(P-F) resin   |  Students click on "excute" button for identifying <br> the final product. |  What is the  color of P-F?
-5.| Examine the nature of <br> urea-formaldehyde(U-F) resin   |  Students see the simulator for identifying <br> the changes in mixture. |  What is the  color of U-F?
-6.| Identify the  behaviour of<br> Urea-formaldehyde(U-F) mixture when sulphuric acid is added    |  Students click on "excute" button for identifying <br> the final product. |  What is the  color of P-F?
+4.| Identify the adhessive behaviour<br> of Phenol-formaldehyde(P-F) resin   |  Students click on "excute" button for identifying <br> the final product. |  What is the  color of P-F resin?
+5.| Examine the nature of <br> urea-formaldehyde(U-F) resin   |  Students see the simulator for identifying <br> the changes in mixture. |  What is the  color of U-F resin?
+6.| Identify the  behaviour of<br> Urea-formaldehyde(U-F) mixture when sulphuric acid is added    |  Students click on "excute" button for identifying <br> the final product. |  What is the  nature of U-F resin?
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
