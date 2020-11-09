@@ -48,7 +48,7 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 2 | Abhishek Mishra | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur |mishraabhi8924@gmail.com
 3 | Ashish Shukla | Student | Computer Applications| Institute of Management  and Studies, Noida, Uttar Pradesh | ashishgkp22@yahoo.com
 4 | Kriti Shukla | Student | Computer Science and Engineering | Institute of Technology & Management, GIDA, Gorakhpur | kritishukla2019@gmail.com
-5 | Pankaj Kumar Gond | Student | Information Technology | Institute of Technology & Management, GIDA, Gorakhpur | pankajkumargond79@gmail.com
+5 | Pankaj Kumar Gond | Student | Information Technology | Institute of Technology & Management, GIDA, Gorakhpur | pankajkumargond79@gmail.com<br> </b>
 
 
-<br> </b>
+Link of the website is <a href="https://ebootathon.com/labs/beta/chemistry/EngineeringChemistryLab/exp1/">here</a>.
