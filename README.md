@@ -51,4 +51,4 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 5 | Pankaj Kumar Gond | Student | Information Technology | Institute of Technology & Management, GIDA, Gorakhpur | pankajkumargond79@gmail.com<br> </b>
 
 
-Link of the website is <a href="https://ebootathon.com/labs/beta/chemistry/EngineeringChemistryLab/exp1/">here</a>.
+Link of the website is <a href="http://ebootathon.com/labs/beta/chemistry/EngineeringChemistryLab/exp1/">here</a>.
